@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282910074490",
+    "project_id": "mobile-app-ab86b",
+    "storage_bucket": "mobile-app-ab86b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282910074490:android:06283eda54b5ebc173fdc3",
+        "android_client_info": {
+          "package_name": "com.example.phone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN_8N-uzcVfQJORqi22j29AiCHPd6Sg0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
